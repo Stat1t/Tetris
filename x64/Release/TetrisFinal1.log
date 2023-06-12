@@ -1,0 +1,15 @@
+﻿  main.cpp
+E:\programs\TetrisFinal1\main.h(37,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+E:\programs\TetrisFinal1\main.h(47,28): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\programs\TetrisFinal1\main.h(70,61): warning C4305: '=': truncation from 'double' to 'float'
+E:\programs\TetrisFinal1\main.h(130,17): warning C4305: '=': truncation from 'double' to 'float'
+E:\programs\TetrisFinal1\main.h(141,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\programs\TetrisFinal1\main.h(141,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\programs\TetrisFinal1\main.h(149,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+E:\programs\TetrisFinal1\main.h(149,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  0 of 70 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  TetrisFinal1.vcxproj -> E:\programs\TetrisFinal1\x64\Release\TetrisFinal1.exe

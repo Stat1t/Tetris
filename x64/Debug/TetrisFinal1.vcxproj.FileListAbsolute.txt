@@ -1,0 +1,11 @@
+E:\programs\TetrisFinal1\x64\Debug\TetrisFinal1.vcxproj.CopyComplete
+E:\programs\TetrisFinal1\x64\Debug\TetrisFinal1.exe
+E:\programs\TetrisFinal1\x64\Debug\sfml-graphics-d-2.dll
+E:\programs\TetrisFinal1\x64\Debug\sfml-window-d-2.dll
+E:\programs\TetrisFinal1\x64\Debug\sfml-system-d-2.dll
+E:\programs\TetrisFinal1\x64\Debug\freetyped.dll
+E:\programs\TetrisFinal1\x64\Debug\zlibd1.dll
+E:\programs\TetrisFinal1\x64\Debug\bz2d.dll
+E:\programs\TetrisFinal1\x64\Debug\libpng16d.dll
+E:\programs\TetrisFinal1\x64\Debug\brotlidec.dll
+E:\programs\TetrisFinal1\x64\Debug\brotlicommon.dll
